@@ -242,7 +242,7 @@ public class ImgToBase64 {
         }
     }
     public static void main(String[] args) {
-        String ss = resourceToBase64("/Users/trthi/Documents/px/纪念日类项目/mm/cat44.jpg");
+        String ss = resourceToBase64("/Users/trthi/Documents/mm/cat44.jpg");
         System.out.println(ss);
     }
 }
